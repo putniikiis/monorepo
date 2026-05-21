@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+**/build/
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.d
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug
+*.dSYM/
+*.su
+*.pdb

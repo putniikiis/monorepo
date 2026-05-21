@@ -1,8 +1,0 @@
-cd door_management_files
-cd door_configuration
-nano door_1.conf
-
-Change status to OPEN
-
-Ctrl+O
-Ctrl+X
